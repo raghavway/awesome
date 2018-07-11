@@ -2,4 +2,4 @@
 
 # awesome
 An App that can scan the shop logo and pay.
-This Application's Testing is sponsored by Browserstack.com
+This Application's Testing is sponsored by Browserstack.com . We will use manual testing to get the application working.
